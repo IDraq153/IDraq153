@@ -1,16 +1,29 @@
-## Hi there 👋
+[![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Dario Rua <sub style="font-size: 15px; font-style: italic">, a programming enthusiast.</sub><br>
 
-<!--
-**IDraq153/IDraq153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡Backend developer by nature, but with a curious eye for the frontend, always looking to learn and expand my skills.<br>
 
-Here are some ideas to get you started:
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>Skills</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Languages
+    ![Java Badge](https://custom-icon-badges.demolab.com/badge/Java-ED8B00.svg?logo=java-colorful)
+    ![C++ Badge](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat)
+    ![Python Badge](https://custom-icon-badges.demolab.com/badge/Python-000.svg?logo=python-colorful)
+    ![JavaScript Badge](https://img.shields.io/badge/Javascript*-%23323330.svg?&logo=javascript&logoColor=%23F7DF1E&style=flat)
+    ![CSS3 Badge](https://img.shields.io/badge/CSS3*-%231572B6.svg?&logo=css3&logoColor=white&style=flat) 
+    ![HTML5 Badge](https://img.shields.io/badge/HTML5*-%23E34F26.svg?&logo=html5&logoColor=white&style=flat) 
+
+- ## Frameworks
+    ![React Badge](https://img.shields.io/badge/React*-%2320232a.svg?&logo=react&logoColor=%2361DAFB&style=flat) 
+
+- ## Version Controls & CI/CD
+    ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+    ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+    ![Git Extensions Badge](https://img.shields.io/badge/Git%20Extensions-212121?logo=gitextensions&logoColor=fff&style=flat)
+  
+- ## IDEs & Tools
+    ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+    ![Sublime Text Badge](https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat)
+    ![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=flat)
+  
+\* Skills in study and improvement.
