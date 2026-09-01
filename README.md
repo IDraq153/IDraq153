@@ -17,6 +17,3 @@
 <!-------------------------->
 
 \* Skills in study and improvement.
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Red_X.svg/20px-Red_X.svg.png" width="20">
-<b>VIBE CODING</b>
