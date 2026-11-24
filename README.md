@@ -75,40 +75,6 @@ fun_fact:    I also build 3D scenes in Blender and mod games in my free time �
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🛡️ **CyberShield** | Team cybersecurity project built for Data Structures & Algorithms II | `C++` |
-| 🌐 **[Progra-Web](https://github.com/IDraq153/Progra-Web)** | Web application with a student management REST API | `JavaScript` `HTML` `CSS` |
-| 📊 **UniGym Tracker** | Local web app to track university grades and gym progress | `JavaScript` `HTML` `CSS` |
-| 📦 **Kardex Automation** *(in progress)* | Web system to automate warehouse outbound records and inventory control | `Web` `Backend` |
-
-<p align="center">
-  <a href="https://github.com/IDraq153/Progra-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IDraq153&repo=Progra-Web&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IDraq153&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDraq153&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IDraq153&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IDraq153&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
 ## 🎯 Current Goals
 
 - [x] Rank in the top 10% of my class (Décimo Superior)
