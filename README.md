@@ -33,12 +33,6 @@ learning:    [CCNA (Cisco Networking Academy), Offensive Security on AWS, Nginx 
 looking_for: Pre-professional internship in Cybersecurity / Networks / Backend
 fun_fact:    I also build 3D scenes in Blender and mod games in my free time 🎮
 ```
-
-- 🛡️ Training in **offensive security (red team)** in cloud lab environments on **AWS Academy**
-- 🌐 Studying **CCNA** — routing, switching, subnetting, and network design
-- ⚙️ Building **REST APIs** and web apps, currently learning to deploy them behind **Nginx**
-- 🤝 I enjoy turning real-world problems into software — like automating warehouse inventory workflows (Kardex) at my job
-
 ---
 
 ## 🛠️ Tech Stack
@@ -72,16 +66,6 @@ fun_fact:    I also build 3D scenes in Blender and mod games in my free time �
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
 </p>
-
----
-
-## 🎯 Current Goals
-
-- [x] Rank in the top 10% of my class (Décimo Superior)
-- [ ] Complete **CCNA 1 – Introduction to Networks**
-- [ ] Land a **pre-professional internship** in cybersecurity
-- [ ] Deploy an API behind **Nginx** with HTTPS
-- [ ] Earn my first security certification
 
 ---
 
